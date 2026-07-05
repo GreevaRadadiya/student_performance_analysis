@@ -30,7 +30,18 @@ The analysis examines how study habits, previous academic failures, parental edu
 - Jupyter Notebook
 
 ---
+# 📂 Repository Structure
 
+```text
+Student-Performance-Analysis/
+│
+├── Student_Performance_Analysis.ipynb
+├── student-mat.csv
+├── requirements.txt
+├── README.md
+└── images/
+```
+---
 # 📊 Project Workflow
 
 - Project Objective
