@@ -107,15 +107,4 @@ This project demonstrates how Exploratory Data Analysis can uncover meaningful f
 | **images/** | Screenshots of key visualizations |
 
 ---
-
  **Note:** Interactive Plotly visualizations may not appear in GitHub's notebook preview. For the best viewing experience, open the notebook in Google Colab or Jupyter Notebook.
-
----
-
-# 👨‍💻 Author
-
-**Greeva Radadiya**
-
-B.Tech Information Technology Student (2027)
-
-Aspiring Data Analyst | Python Enthusiast | Data Visualization
